@@ -5,6 +5,7 @@ dependencies:
   - python
   - scipy
   - matplotlib
+  - ffmpeg
   - cartopy
   - dask
   - pandas
